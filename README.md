@@ -19,7 +19,9 @@ To Simulate Triangular-wave-generator using Op-amp
 
 
 
-  **Output waveform**![Uploading WhatsApp Image 2026-09-15 at 8.16.16 PM.jpeg…]()
+  **Output waveform**
+  <img width="832" height="550" alt="WhatsApp Image 2026-09-15 at 8 16 16 PM" src="https://github.com/user-attachments/assets/6ae06fa2-334e-47f7-a453-215c024f8d37" />
+
 
 
 
